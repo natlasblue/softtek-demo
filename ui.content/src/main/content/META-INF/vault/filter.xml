@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/softtek-demo" mode="merge"/>
+    <filter root="/content/softtek-demo" mode="merge"/>
+    <filter root="/content/dam/softtek-demo/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/softtek-demo" mode="merge"/>
+</workspaceFilter>
